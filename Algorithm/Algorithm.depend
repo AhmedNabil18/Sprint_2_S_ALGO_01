@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1625911216 source:h:\automotive sw bootcamp - sprints\sprint_2\s_algo_01\algorithm\main.c
+	<stdio.h>
+	<stdlib.h>
+	"S_Algo_Task.h"
+
+1625911198 h:\automotive sw bootcamp - sprints\sprint_2\s_algo_01\algorithm\s_algo_task.h
+	<stdlib.h>
+	"Platform_Types.h"
+
+1625836835 h:\automotive sw bootcamp - sprints\sprint_2\s_algo_01\algorithm\platform_types.h
+
+1625912178 source:h:\automotive sw bootcamp - sprints\sprint_2\s_algo_01\algorithm\s_algo_task.c
+	"S_Algo_Task.h"
+
