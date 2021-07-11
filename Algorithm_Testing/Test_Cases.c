@@ -7,7 +7,7 @@ extern str_TC_Algorithm_insertionSort_t  astr_TC_Algorithm_insertionSort_TestDat
 extern str_TC_Algorithm_binarySearch_t  astr_TC_Algorithm_binarySearch_TestData[TC_ALGO_BIN_SEARCH_NUM];
 TC_Error_t TC_ExecuteAndLog(void)
 {
-    volatile TC_Error_t returnError = TC_ERROR_OK;
+    TC_Error_t returnError = TC_ERROR_OK;
 
     returnError = TC_Algorithm_checkSorted();
     returnError = TC_Algorithm_insertionSort();
